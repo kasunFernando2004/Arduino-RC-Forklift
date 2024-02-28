@@ -13,6 +13,8 @@ Double motor gear box x1 (for forklift)
 
 18x18mm wood (for forklift)
 
+Images of the Car:
+
 ![image](https://github.com/kasunFernando2004/Arduino-RC-Forklift/assets/161267348/f94b9b80-aa1f-4cd8-a190-a6bb3b807a37)
 ![image](https://github.com/kasunFernando2004/Arduino-RC-Forklift/assets/161267348/49355a5f-f16a-4f9c-bb78-5334311e4bbb)
 
