@@ -1,6 +1,7 @@
 # Arduino-RC-Forklift
 Radio controlled forklift, implemented in Arduino using the RadioHead library. Forklift mechanism consists of wood and 3d printed parts.
 
+Video of it doing its  thing: https://youtu.be/-XAlTKXR-jg
 Parts used:
 
 Arduino Uno x2 (One for controller one for Car)
